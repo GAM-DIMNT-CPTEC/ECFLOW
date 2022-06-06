@@ -1,2 +1,2 @@
 # ECFLOW
-Registrar a aplicação do ECFLOW na DIMNT
+Referente a aplicação do ECFLOW na DIMNT
